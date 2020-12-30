@@ -3,6 +3,8 @@ CLI tool for making nice looking printable Bitcoin Subsidium paper wallets to ho
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Pillow?style=plastic) ![GitHub repo size](https://img.shields.io/github/repo-size/luxleather/xbtx-paper-wallet?style=plastic) ![GitHub](https://img.shields.io/github/license/luxleather/xbtx-paper-wallet?style=plastic)
 
+![Showcase](https://github.com/luxleather/xbtx-paper-wallet/blob/main/showcase/xbtx-photo.png)
+
 Table of contents:
 * [About this wallet](https://github.com/luxleather/xbtx-paper-wallet#about-this-wallet)
     * [How private keys are generated](https://github.com/luxleather/xbtx-paper-wallet#how-private-keys-are-generated)
