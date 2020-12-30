@@ -83,7 +83,7 @@ Run file and create paper wallet:
 
 Install any Python3.x version.
 
-Download Teloscoin paper wallet files from this repo and unpack it on the Desktop.
+Download Bitcoin Subsidium XBTX paper wallet files from this repo and unpack it on the Desktop.
 
 Run Terminal and type: `cd /home/<username>/Desktop/xbtx-paper-wallet-master`
 
